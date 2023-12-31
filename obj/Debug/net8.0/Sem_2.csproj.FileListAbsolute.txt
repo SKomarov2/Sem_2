@@ -1,0 +1,15 @@
+F:\Komarov\Нужное\Lessson\Sem_2\bin\Debug\net8.0\Sem_2.exe
+F:\Komarov\Нужное\Lessson\Sem_2\bin\Debug\net8.0\Sem_2.deps.json
+F:\Komarov\Нужное\Lessson\Sem_2\bin\Debug\net8.0\Sem_2.runtimeconfig.json
+F:\Komarov\Нужное\Lessson\Sem_2\bin\Debug\net8.0\Sem_2.dll
+F:\Komarov\Нужное\Lessson\Sem_2\bin\Debug\net8.0\Sem_2.pdb
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.AssemblyInfoInputs.cache
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.AssemblyInfo.cs
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.csproj.CoreCompileInputs.cache
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.sourcelink.json
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.dll
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\refint\Sem_2.dll
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.pdb
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\Sem_2.genruntimeconfig.cache
+F:\Komarov\Нужное\Lessson\Sem_2\obj\Debug\net8.0\ref\Sem_2.dll

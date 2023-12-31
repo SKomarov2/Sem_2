@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ucheba\\LessonSem\\Sem_2\\Sem_2.csproj": {}
+    "F:\\Komarov\\Нужное\\Lessson\\Sem_2\\Sem_2.csproj": {}
   },
   "projects": {
-    "D:\\Ucheba\\LessonSem\\Sem_2\\Sem_2.csproj": {
+    "F:\\Komarov\\Нужное\\Lessson\\Sem_2\\Sem_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ucheba\\LessonSem\\Sem_2\\Sem_2.csproj",
+        "projectUniqueName": "F:\\Komarov\\Нужное\\Lessson\\Sem_2\\Sem_2.csproj",
         "projectName": "Sem_2",
-        "projectPath": "D:\\Ucheba\\LessonSem\\Sem_2\\Sem_2.csproj",
-        "packagesPath": "C:\\Users\\Serega\\.nuget\\packages\\",
-        "outputPath": "D:\\Ucheba\\LessonSem\\Sem_2\\obj\\",
+        "projectPath": "F:\\Komarov\\Нужное\\Lessson\\Sem_2\\Sem_2.csproj",
+        "packagesPath": "C:\\Users\\komarov\\.nuget\\packages\\",
+        "outputPath": "F:\\Komarov\\Нужное\\Lessson\\Sem_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Serega\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\komarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
